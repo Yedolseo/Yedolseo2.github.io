@@ -1,8 +1,8 @@
-# glas
+# Seo Ye-jin BLOG
 Glas - Rails on Ruby - Jekyll Theme 
 Preview: http://www.spaceg.github.io
 
-![Alt text](https://raw.githubusercontent.com/SpaceG/glas/master/img/glas_github.png "glas")
+![Alt text](https://raw.githubusercontent.com/SpaceG/glas/master/img/glas_github.png "YEDOL")
 
 
 GLAS  - DOM Structure
